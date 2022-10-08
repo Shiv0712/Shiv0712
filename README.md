@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shiv0712
 - 👀 I’m interested in .coding..
-- 🌱 I’m currently learning .python and web development..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m experienced in data sceince and machine learning
+- 💞️ I’m looking to collaborate on workin in  data science fields
 - 📫 How to reach me .through my email address-ss1692001@gmail.com
 ..
 
